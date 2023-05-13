@@ -11,5 +11,13 @@ public class Git
 	{
 		System.out.println("<<<Hello GIT>>>");
 	}
+	
+	public int m2()
+	{
+		System.out.println("<<M2>>");
+		int m2 = 0;
+		return m2;
+		
+	}
 
 }
